@@ -1,6 +1,6 @@
 # Hi, I'm Syed Ali Nafay 👋
 
-Computer Science junior@ FAST | LHR
+Computer Science junior @ FAST | LHR
 
 ## 🚀 Projects
 
