@@ -4,7 +4,7 @@ Computer Science sophomore @ FAST | LHR
 
 ## 🚀 Projects
 
-- **[SIAP](https://github.com/ashartaqi/siap-be)** ([frontend](https://github.com/ashartaqi/siap-fe)) — contributed to this project (owned by [ashartaqi](https://github.com/ashartaqi)), including integrating a RAG model
+- **SIAP** ([backend](https://github.com/ashartaqi/siap-be) + [frontend](https://github.com/ashartaqi/siap-fe)) — contributed to both the backend and frontend of this project (owned by [ashartaqi](https://github.com/ashartaqi)), including integrating a RAG model
 - **lgu-chaukas** — Flutter mobile app built for a hackathon
 - **your-coding-buddy** — TypeScript project
 - **gridstack-dashboard** — Python dashboard with a Gridstack-based layout
