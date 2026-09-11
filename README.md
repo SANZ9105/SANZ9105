@@ -19,3 +19,4 @@ Computer Science sophomore @ FAST | LHR
 ## 📫 Connect
 
 [LinkedIn](https://www.linkedin.com/in/syed-ali-nafay-zaidi-207bb7282/)
+
